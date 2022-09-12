@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "no"?>
+<oglasi>
+    <oglas>
+        <kategorija>Automobili</kategorija>
+        <datumIsteka>11.11.2022.</datumIsteka>
+        <cena valuta="eur">1000</cena>
+        <tekstOglasa>Ovo je oglas o automobilu<tekstOglasa>
+        <oznake>
+            <oznaka>Kao nov</oznaka>
+            <oznaka>Bez problema</oznaka>
+        <oznake>
+        <ePoste status="privatan">
+            <ePosta>Petar@gmail.com</ePosta>
+            <ePosta>Petar@business.mail.com</ePosta>
+        <ePoste>
+    </oglas>
+        <oglas>
+        <kategorija>Stan</kategorija>
+        <datumIsteka>22.11.2022.</datumIsteka>
+        <cena valuta="eur">5000</cena>
+        <tekstOglasa>Ovo je oglas o stanu<tekstOglasa>
+        <oznake>
+            <oznaka>Kao nov</oznaka>
+            <oznaka>Bez problema</oznaka>
+        <oznake>
+        <ePoste status="privatan">
+            <ePosta>Igor@gmail.com</ePosta>
+        <ePoste>
+    </oglas>
+    <oglas>
+        <kategorija>Alat</kategorija>
+        <datumIsteka>12.12.2022.</datumIsteka>
+        <cena valuta="din">500</cena>
+        <tekstOglasa>Ovo je oglas o alatu<tekstOglasa>
+        <oznake>
+            <oznaka>Korisceno</oznaka>
+        <oznake>
+        <ePoste status="javan">
+            <ePosta>Petar@gmail.com</ePosta>
+            <ePosta>Petar@business.mail.com</ePosta>
+        <ePoste>
+    </oglas>
+</oglasi>
