@@ -9,11 +9,11 @@
         <oznake>
             <oznaka>Kao nov</oznaka>
             <oznaka>Bez problema</oznaka>
-        <oznake>
+        </oznake>
         <ePoste status="privatan">
             <ePosta>Petar@gmail.com</ePosta>
             <ePosta>Petar@business.mail.com</ePosta>
-        <ePoste>
+        </ePoste>
     </oglas>
         <oglas>
         <kategorija>Stan</kategorija>
@@ -23,10 +23,10 @@
         <oznake>
             <oznaka>Kao nov</oznaka>
             <oznaka>Bez problema</oznaka>
-        <oznake>
+        </oznake>
         <ePoste status="privatan">
             <ePosta>Igor@gmail.com</ePosta>
-        <ePoste>
+        </ePoste>
     </oglas>
     <oglas>
         <kategorija>Alat</kategorija>
@@ -35,10 +35,10 @@
         <tekstOglasa>Ovo je oglas o alatu<tekstOglasa>
         <oznake>
             <oznaka>Korisceno</oznaka>
-        <oznake>
+        </oznake>
         <ePoste status="javan">
             <ePosta>Petar@gmail.com</ePosta>
             <ePosta>Petar@business.mail.com</ePosta>
-        <ePoste>
+        </ePoste>
     </oglas>
 </oglasi>
