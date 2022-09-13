@@ -10,10 +10,8 @@
         </datumIsteka>
         <cena valuta="eur">1000</cena>
         <tekstOglasa>Ovo je oglas o automobilu</tekstOglasa>
-        <oznake>
-            <oznaka>Kao nov</oznaka>
-            <oznaka>Bez problema</oznaka>
-        </oznake>
+        <oznaka>Kao nov</oznaka>
+        <oznaka>Bez problema</oznaka>
         <ePosta tip="privatni">Stefan@gmail.com</ePosta>
     </oglas>
         <oglas>
@@ -25,10 +23,8 @@
         </datumIsteka>
         <cena valuta="eur">5000</cena>
         <tekstOglasa>Ovo je oglas o stanu</tekstOglasa>
-        <oznake>
-            <oznaka>Kao nov</oznaka>
-            <oznaka>Bez problema</oznaka>
-        </oznake>
+        <oznaka>Kao nov</oznaka>
+        <oznaka>Dvosoban</oznaka>
         <ePosta tip="javni">Igor@gmail.com</ePosta>
     </oglas>
     <oglas>
@@ -40,9 +36,7 @@
         </datumIsteka>
         <cena valuta="din">500</cena>
         <tekstOglasa>Ovo je oglas o alatu</tekstOglasa>
-        <oznake>
-            <oznaka>Korisceno</oznaka>
-        </oznake>
+        <oznaka>Korisceno</oznaka>
         <ePosta tip="privatni">Petar@gmail.com</ePosta>
         <ePosta tip="privatni">Petar@business.mail.com</ePosta>
     </oglas>
