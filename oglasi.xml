@@ -5,7 +5,7 @@
         <kategorija>Automobili</kategorija>
         <datumIsteka>11.11.2022.</datumIsteka>
         <cena valuta="eur">1000</cena>
-        <tekstOglasa>Ovo je oglas o automobilu<tekstOglasa>
+        <tekstOglasa>Ovo je oglas o automobilu</tekstOglasa>
         <oznake>
             <oznaka>Kao nov</oznaka>
             <oznaka>Bez problema</oznaka>
@@ -19,7 +19,7 @@
         <kategorija>Stan</kategorija>
         <datumIsteka>22.11.2022.</datumIsteka>
         <cena valuta="eur">5000</cena>
-        <tekstOglasa>Ovo je oglas o stanu<tekstOglasa>
+        <tekstOglasa>Ovo je oglas o stanu</tekstOglasa>
         <oznake>
             <oznaka>Kao nov</oznaka>
             <oznaka>Bez problema</oznaka>
@@ -32,7 +32,7 @@
         <kategorija>Alat</kategorija>
         <datumIsteka>12.12.2022.</datumIsteka>
         <cena valuta="din">500</cena>
-        <tekstOglasa>Ovo je oglas o alatu<tekstOglasa>
+        <tekstOglasa>Ovo je oglas o alatu</tekstOglasa>
         <oznake>
             <oznaka>Korisceno</oznaka>
         </oznake>
