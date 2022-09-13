@@ -3,42 +3,47 @@
 <oglasi>
     <oglas>
         <kategorija>Automobili</kategorija>
-        <datumIsteka>11.11.2022.</datumIsteka>
+        <datumIsteka>
+            <dan>10</dan>
+            <mesec>10</mesec>
+            <godina>2022</godina>
+        </datumIsteka>
         <cena valuta="eur">1000</cena>
         <tekstOglasa>Ovo je oglas o automobilu</tekstOglasa>
         <oznake>
             <oznaka>Kao nov</oznaka>
             <oznaka>Bez problema</oznaka>
         </oznake>
-        <ePoste status="privatan">
-            <ePosta>Petar@gmail.com</ePosta>
-            <ePosta>Petar@business.mail.com</ePosta>
-        </ePoste>
+        <ePosta tip="privatni">Stefan@gmail.com</ePosta>
     </oglas>
         <oglas>
         <kategorija>Stan</kategorija>
-        <datumIsteka>22.11.2022.</datumIsteka>
+        <datumIsteka>
+            <dan>12</dan>
+            <mesec>12</mesec>
+            <godina>2022</godina>
+        </datumIsteka>
         <cena valuta="eur">5000</cena>
         <tekstOglasa>Ovo je oglas o stanu</tekstOglasa>
         <oznake>
             <oznaka>Kao nov</oznaka>
             <oznaka>Bez problema</oznaka>
         </oznake>
-        <ePoste status="privatan">
-            <ePosta>Igor@gmail.com</ePosta>
-        </ePoste>
+        <ePosta tip="javni">Igor@gmail.com</ePosta>
     </oglas>
     <oglas>
         <kategorija>Alat</kategorija>
-        <datumIsteka>12.12.2022.</datumIsteka>
+                <datumIsteka>
+            <dan>11</dan>
+            <mesec>11</mesec>
+            <godina>2022</godina>
+        </datumIsteka>
         <cena valuta="din">500</cena>
         <tekstOglasa>Ovo je oglas o alatu</tekstOglasa>
         <oznake>
             <oznaka>Korisceno</oznaka>
         </oznake>
-        <ePoste status="javan">
-            <ePosta>Petar@gmail.com</ePosta>
-            <ePosta>Petar@business.mail.com</ePosta>
-        </ePoste>
+        <ePosta tip="privatni">Petar@gmail.com</ePosta>
+        <ePosta tip="privatni">Petar@business.mail.com</ePosta>
     </oglas>
 </oglasi>
